@@ -1,5 +1,5 @@
 # jumble_word
-<b>module</b> <br/>
+<h1><b>module</b></h1> <br/>
 import random<br/>
 from tkinter import *<br/>
 from tkinter import messagebox<br/>
